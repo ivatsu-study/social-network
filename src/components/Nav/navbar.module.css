@@ -1,0 +1,4 @@
+.nav {
+  grid-area: nav-grid-area;
+  background-color: bisque;
+}
