@@ -1,7 +1,6 @@
 import React from "react";
 
 import logo from '../../../../logo.svg';
-
 import styles from './post.module.css';
 
 const Post = (props) => (
