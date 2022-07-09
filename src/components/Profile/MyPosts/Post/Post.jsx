@@ -8,7 +8,7 @@ const Post = (props) => (
     <img src={logo} alt="avatar" />
     {props.message}
     <button>Like {props.likeCounts}</button>
-</div>
+  </div>
 );
 
 export default Post;
